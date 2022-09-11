@@ -1,5 +1,4 @@
-import { getEvents, renderMoreInfo } from '../../service/api';
-import { EventsInfo } from 'components/EventsInfo/EventsInfo';
+import { getEvents } from '../../service/api';
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Outlet } from 'react-router-dom';
