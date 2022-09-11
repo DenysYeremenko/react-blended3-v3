@@ -1,8 +1,8 @@
 {
-  "name": "react-blended3-v2",
+  "name": "react-blended3-v3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Maksim-Yaroschuk.github.io/react-blended3-v2/",
+  "homepage": "https://DenysYeremenko.github.io/react-blended3-v3/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
